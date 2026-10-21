@@ -1,0 +1,12 @@
+name = "centralConfigurations"
+version = "0.1.0"
+defaultTargets = ["CentralConfigurations"]
+
+[[require]]
+name = "mathlib"
+git = "https://github.com/leanprover-community/mathlib4.git"
+rev = "85e6e1b45ac3992b8b08b789e314e2b2adf4d5c5"
+
+[[lean_lib]]
+name = "CentralConfigurations"
+

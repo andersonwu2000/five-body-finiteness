@@ -1,0 +1,1 @@
+import CentralConfigurations.FiveBody.D2Regular.PositiveFiniteness
