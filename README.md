@@ -1,6 +1,6 @@
 # Lean development for five-body finiteness
 
-Author and contact: Anderson Wu, andersonwu2000@gmail.com.
+Author and contact: Chih-Yao Wu, andersonwu2000@gmail.com.
 
 This project accompanies *Finiteness of Planar Central Configurations for Five Positive Masses*. See `REVIEW_CLOSURE.md` for the precise formal statement, definitions, verification scope, and manuscript correspondence. `Paper.lean` indexes numbered statements; `Check.lean` checks the main theorem and axiom dependencies.
 

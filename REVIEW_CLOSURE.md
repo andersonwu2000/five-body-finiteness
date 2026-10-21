@@ -238,7 +238,7 @@ The PDF uses AK's D1–D16 numbering. `CentralConfigurations/FiveBody/OrdinaryDi
 
 ## 7. Contributions and review status
 
-Anderson Wu coordinated the research and manuscript preparation and serves as corresponding author. AI agents produced the mathematical arguments, formalization, and manuscript, and performed the recorded machine checks. An independent human expert review of the complete argument has not yet been completed.
+Chih-Yao Wu coordinated the research and manuscript preparation and serves as corresponding author. AI agents produced the mathematical arguments, formalization, and manuscript, and performed the recorded machine checks. An independent human expert review of the complete argument has not yet been completed.
 
 ## 8. Development and circulation
 
